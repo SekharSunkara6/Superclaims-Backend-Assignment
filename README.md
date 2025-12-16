@@ -427,9 +427,7 @@ On the current development machine, Docker builds fail due to network timeouts a
 
 ## Loom Walkthrough (Bonus)
 
-(Replace with your actual Loom URL.)
-
-> Loom walkthrough: https://www.loom.com/share/YOUR-VIDEO-ID
+> Loom walkthrough: https://drive.google.com/file/d/1bqqNYMhlNe76hP7UMCDzMfIZA_OQVH25/view?usp=sharing
 
 The video should briefly show:
 
@@ -437,3 +435,4 @@ The video should briefly show:
 - Running the service locally or on Render.  
 - Using `/docs` to upload PDFs.  
 - Walking through the JSON response and explaining classification, extraction, validation, and how `llm_error` is handled.
+
